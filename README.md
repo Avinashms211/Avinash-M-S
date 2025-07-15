@@ -43,5 +43,5 @@ Java
 
 ## Instructions
 - Each problem is in a separate `.java` file.
-- Files are self-contained and have `public static void main` to execute directly.
+- Each class has `public static void main` to execute directly.
 - Compatible with any standard Java IDE (like Eclipse, IntelliJ).
