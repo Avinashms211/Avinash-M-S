@@ -1,7 +1,7 @@
 # Avinash M S
 
-## Programming Language
-Java
+## Programming Language : Java
+
 
 ## Problems
 ## Problem-1: Create a small calculator which performs operations such as Addition, Subtraction, Multiplication and Division using class.
